@@ -1,0 +1,558 @@
+Platinum Status	Primary Therapy Outcome Success	Sample ID	ACGH Data	Cancer Studies	Cancer Type	Cancer Type Detailed	Complete Data	Disease Free (Months)	Disease Free Status	MRNA Data	Neoplasm Histologic Grade	Overall Survival (Months)	Overall Survival Status	Patient ID	Sequenced	Tumor Residual Disease	Tumor Stage 2009
+		TCGA-57-1994-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	25	DiseaseFree	YES		25	LIVING	TCGA-57-1994	NO		
+	COMPLETE RESPONSE	TCGA-59-2351-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	70.27	Recurred/Progressed	YES	G3	116.04	LIVING	TCGA-59-2351	YES	1-10 mm	IIIC
+	STABLE DISEASE	TCGA-59-2354-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.15	Recurred/Progressed	YES	G3	34.36	DECEASED	TCGA-59-2354	YES	1-10 mm	IIIC
+	PARTIAL RESPONSE	TCGA-59-2350-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.93	Recurred/Progressed	YES	G3	22.31	DECEASED	TCGA-59-2350	YES	1-10 mm	IV
+	COMPLETE RESPONSE	TCGA-25-1877-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	18.04	Recurred/Progressed	YES	G3	23.98	DECEASED	TCGA-25-1877	NO	1-10 mm	IIIC
+		TCGA-04-1649-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	54.93	Recurred/Progressed	YES	G3	64.59	LIVING	TCGA-04-1649	NO	1-10 mm	IIIC
+		TCGA-25-1319-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	23.98	Recurred/Progressed	YES	G3	64.95	DECEASED	TCGA-25-1319	YES	11-20 mm	IIIC
+	PROGRESSIVE DISEASE	TCGA-25-1871-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	7.56	Recurred/Progressed	YES	G3	24.97	DECEASED	TCGA-25-1871	NO	11-20 mm	IIIC
+	COMPLETE RESPONSE	TCGA-24-2038-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	38.41	Recurred/Progressed	YES		44.45	DECEASED	TCGA-24-2038	YES	1-10 mm	IIIA
+	COMPLETE RESPONSE	TCGA-24-2020-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	23.75	Recurred/Progressed	YES	G3	151.88	DECEASED	TCGA-24-2020	NO	1-10 mm	IIIC
+	STABLE DISEASE	TCGA-25-1625-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	17.28	Recurred/Progressed	YES	G3	27.6	DECEASED	TCGA-25-1625	YES	1-10 mm	IIIC
+	PARTIAL RESPONSE	TCGA-24-2035-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.43	Recurred/Progressed	YES	G3	28.16	DECEASED	TCGA-24-2035	YES	1-10 mm	IIIC
+	PARTIAL RESPONSE	TCGA-23-1109-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	32.43	Recurred/Progressed	YES	G3	51.32	DECEASED	TCGA-23-1109	NO	1-10 mm	IIIC
+	PROGRESSIVE DISEASE	TCGA-04-1356-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	5.13	Recurred/Progressed	YES	G3	49.25	DECEASED	TCGA-04-1356	YES		IIC
+		TCGA-20-0987-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.52	Recurred/Progressed	YES	G3	23.03	DECEASED	TCGA-20-0987	YES	1-10 mm	IIIC
+	COMPLETE RESPONSE	TCGA-25-1878-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	31.9	Recurred/Progressed	YES	G3	84.99	DECEASED	TCGA-25-1878	NO	1-10 mm	IIIC
+	COMPLETE RESPONSE	TCGA-29-2427-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	51.94	Recurred/Progressed	YES	G3	62.42	LIVING	TCGA-29-2427	YES	>20mm	IIIC
+	PARTIAL RESPONSE	TCGA-25-1870-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	7.95	Recurred/Progressed	YES	G3	14.92	DECEASED	TCGA-25-1870	NO	11-20 mm	IIIC
+	COMPLETE RESPONSE	TCGA-24-1549-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	34.23	Recurred/Progressed	YES	G3	56.54	DECEASED	TCGA-24-1549	YES		IIIB
+	COMPLETE RESPONSE	TCGA-24-2267-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	16.82	Recurred/Progressed	YES	G3	47.51	DECEASED	TCGA-24-2267	YES	No Macroscopic disease	IIB
+	COMPLETE RESPONSE	TCGA-61-1919-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.42	Recurred/Progressed	YES	G2	38.14	DECEASED	TCGA-61-1919	YES		IIIC
+	STABLE DISEASE	TCGA-04-1361-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	30.42	Recurred/Progressed	YES	G3	32.49	LIVING	TCGA-04-1361	YES	No Macroscopic disease	IIIB
+	COMPLETE RESPONSE	TCGA-24-2298-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.41	Recurred/Progressed	YES	G3	53.22	DECEASED	TCGA-24-2298	YES	>20mm	IIIC
+		TCGA-24-2271-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	27.17	Recurred/Progressed	YES	G3	31.6	DECEASED	TCGA-24-2271	YES	>20mm	IIIC
+	PROGRESSIVE DISEASE	TCGA-13-0714-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	3.61	Recurred/Progressed	YES	G3	6.21	DECEASED	TCGA-13-0714	YES	1-10 mm	IV
+	PARTIAL RESPONSE	TCGA-29-1710-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	10.35	Recurred/Progressed	YES	G2	31.24	DECEASED	TCGA-29-1710	NO	1-10 mm	IIIC
+	COMPLETE RESPONSE	TCGA-24-2023-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	35.12	Recurred/Progressed	YES	G3	44.81	DECEASED	TCGA-24-2023	NO	1-10 mm	IIIA
+	COMPLETE RESPONSE	TCGA-61-2095-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.62	Recurred/Progressed	YES	G2	61.6	DECEASED	TCGA-61-2095	YES	No Macroscopic disease	IIIC
+	COMPLETE RESPONSE	TCGA-24-1603-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	32.59	Recurred/Progressed	YES	G3	90.08	DECEASED	TCGA-24-1603	YES		IIIB
+	COMPLETE RESPONSE	TCGA-61-2104-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	55.19	Recurred/Progressed	YES	G2	76.78	LIVING	TCGA-61-2104	YES	No Macroscopic disease	IIC
+	COMPLETE RESPONSE	TCGA-24-1556-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	18.04	Recurred/Progressed	YES	G3	70.57	DECEASED	TCGA-24-1556	YES	1-10 mm	IIB
+	COMPLETE RESPONSE	TCGA-24-1555-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	51.81	Recurred/Progressed	YES	G3	88.44	DECEASED	TCGA-24-1555	YES		IIIC
+		TCGA-57-1584-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	17.41	Recurred/Progressed	YES	G3	21.12	LIVING	TCGA-57-1584	YES	1-10 mm	IIIC
+	STABLE DISEASE	TCGA-04-1350-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	3.65	Recurred/Progressed	YES	G3	63.93	DECEASED	TCGA-04-1350	YES	>20mm	IIIC
+	PARTIAL RESPONSE	TCGA-25-1314-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.97	Recurred/Progressed	YES	G3	32.95	DECEASED	TCGA-25-1314	NO	1-10 mm	IV
+	STABLE DISEASE	TCGA-29-1688-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	6.01	Recurred/Progressed	YES	G2	78.82	DECEASED	TCGA-29-1688	NO		IIIC
+	PARTIAL RESPONSE	TCGA-25-2408-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.94	Recurred/Progressed	YES	G2	30.95	DECEASED	TCGA-25-2408	YES	1-10 mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-23-1119-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	110.98	Recurred/Progressed	YES	G3	129.87	LIVING	TCGA-23-1119	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1467-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	41.13	Recurred/Progressed	YES	G3	105.92	DECEASED	TCGA-24-1467	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-2111-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	72.44	Recurred/Progressed	YES	G3	125.63	LIVING	TCGA-61-2111	YES		IV
+Sensitive	COMPLETE RESPONSE	TCGA-61-1914-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	54.96	Recurred/Progressed	YES	G3	56.54	LIVING	TCGA-61-1914	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-2425-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	51.81	Recurred/Progressed	YES	G2	64.95	LIVING	TCGA-29-2425	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1762-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	45.14	Recurred/Progressed	YES	G2	86.54	DECEASED	TCGA-29-1762	NO	>20mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-04-1365-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	43.63	Recurred/Progressed	YES	G3	76.48	LIVING	TCGA-04-1365	YES		IIIB
+Sensitive	COMPLETE RESPONSE	TCGA-23-2077-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	40.48	Recurred/Progressed	YES	G3	115.81	LIVING	TCGA-23-2077	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1707-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	39.42	Recurred/Progressed	YES	G3	41.92	LIVING	TCGA-29-1707	NO	No Macroscopic disease	IIC
+Sensitive	COMPLETE RESPONSE	TCGA-04-1514-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	40.11	Recurred/Progressed	YES	G2	56.51	DECEASED	TCGA-04-1514	YES	No Macroscopic disease	IIIA
+Sensitive	COMPLETE RESPONSE	TCGA-13-0884-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	41.1	Recurred/Progressed	YES	G3	107.1	DECEASED	TCGA-13-0884	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-09-1662-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	34.36	Recurred/Progressed	YES	G3	89.26	DECEASED	TCGA-09-1662	YES	1-10 mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-10-0927-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	32.89	Recurred/Progressed	YES	G2	81.8	DECEASED	TCGA-10-0927	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1463-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	31.9	Recurred/Progressed	YES	G3	72.87	DECEASED	TCGA-24-1463	YES	>20mm	IIIC
+Sensitive		TCGA-04-1651-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	32.52	Recurred/Progressed	YES	G3	36.2	DECEASED	TCGA-04-1651	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-04-1542-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	34	Recurred/Progressed	YES	G2	84.14	DECEASED	TCGA-04-1542	YES	1-10 mm	IIIB
+Sensitive	COMPLETE RESPONSE	TCGA-13-1495-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	32.1	Recurred/Progressed	YES	G2	49.18	LIVING	TCGA-13-1495	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1104-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	31.47	Recurred/Progressed	YES	G3	63.51	DECEASED	TCGA-24-1104	YES	>20mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-09-2049-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	31.28	Recurred/Progressed	YES	G3	112.29	LIVING	TCGA-09-2049	YES	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-2036-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	30.03	Recurred/Progressed	YES	G3	63.97	DECEASED	TCGA-24-2036	NO	No Macroscopic disease	IIIA
+Sensitive		TCGA-04-1654-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	26.55	Recurred/Progressed	YES	G2	47.67	DECEASED	TCGA-04-1654	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-2009-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	3.32	Recurred/Progressed	YES	G3	39.82	LIVING	TCGA-61-2009	YES	11-20 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1550-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	29.31	Recurred/Progressed	YES	G3	41.03	DECEASED	TCGA-24-1550	NO	1-10 mm	IIIC
+Sensitive		TCGA-30-1718-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	29.44	Recurred/Progressed	YES	G3	51.88	DECEASED	TCGA-30-1718	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0794-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	27.76	Recurred/Progressed	YES	G3	30.32	LIVING	TCGA-13-0794	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0913-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	28.62	Recurred/Progressed	YES	G3	29.96	LIVING	TCGA-13-0913	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-1911-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	27.7	Recurred/Progressed	YES	G3	42.45	LIVING	TCGA-61-1911	NO		IIA
+Sensitive	COMPLETE RESPONSE	TCGA-23-1026-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	26.18	Recurred/Progressed	YES	G3	26.81	LIVING	TCGA-23-1026	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-04-1652-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	28.91	Recurred/Progressed	YES	G2	31.83	DECEASED	TCGA-04-1652	NO		IIIC
+Sensitive	STABLE DISEASE	TCGA-61-1725-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	27.7	Recurred/Progressed	YES	G3	31.37	LIVING	TCGA-61-1725	NO	11-20 mm	IIIC
+Sensitive		TCGA-04-1655-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	26.91	Recurred/Progressed	YES	G2	45.3	DECEASED	TCGA-04-1655	NO	No Macroscopic disease	IIIB
+Sensitive	COMPLETE RESPONSE	TCGA-61-2008-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	26.84	Recurred/Progressed	YES	G2	30.59	LIVING	TCGA-61-2008	YES	No Macroscopic disease	IIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0792-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	26.81	Recurred/Progressed	YES	G3	36.7	LIVING	TCGA-13-0792	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-1743-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	26.58	Recurred/Progressed	YES	G2	43.66	DECEASED	TCGA-61-1743	NO	No Macroscopic disease	IIC
+Sensitive		TCGA-20-0990-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	28.58	Recurred/Progressed	YES	G3	25.92	LIVING	TCGA-20-0990	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1551-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	25.1	Recurred/Progressed	YES	G3	51.88	DECEASED	TCGA-24-1551	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-1497-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	26.71	Recurred/Progressed	YES	G3	54.27	LIVING	TCGA-13-1497	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1764-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	26.02	Recurred/Progressed	YES	G2	62.88	LIVING	TCGA-29-1764	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-1736-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	25.1	Recurred/Progressed	YES	G3	48.75	DECEASED	TCGA-61-1736	YES		IIIC
+Sensitive		TCGA-31-1946-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	21.81	Recurred/Progressed	YES	G3	30.16	LIVING	TCGA-31-1946	NO	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-36-1576-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	26.81	Recurred/Progressed	YES	G3	30.03	LIVING	TCGA-36-1576	YES	>20mm	IIIC
+Sensitive	STABLE DISEASE	TCGA-61-1907-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	24.41	Recurred/Progressed	YES	G3	31.28	LIVING	TCGA-61-1907	NO	11-20 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0891-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	25	Recurred/Progressed	YES	G3	68.96	LIVING	TCGA-13-0891	YES	No Macroscopic disease	IV
+Sensitive	COMPLETE RESPONSE	TCGA-24-1545-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	28.29	Recurred/Progressed	YES	G3	57.33	DECEASED	TCGA-24-1545	YES	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-36-1581-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	23.06	Recurred/Progressed	YES	G3	24.67	LIVING	TCGA-36-1581	NO	No Macroscopic disease	IIC
+Sensitive	COMPLETE RESPONSE	TCGA-10-0930-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	22.34	Recurred/Progressed	YES	G3	34.17	DECEASED	TCGA-10-0930	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1103-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	22.24	Recurred/Progressed	YES	G3	54.04	DECEASED	TCGA-24-1103	YES	1-10 mm	IIIC
+Sensitive		TCGA-61-2113-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.56	Recurred/Progressed	YES	G3	22.21	DECEASED	TCGA-61-2113	YES		IIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-1489-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	26.48	Recurred/Progressed	YES	G2	82.82	LIVING	TCGA-13-1489	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-2260-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	21.91	Recurred/Progressed	YES	G3	36.14	DECEASED	TCGA-24-2260	YES	1-10 mm	IIIB
+Sensitive	COMPLETE RESPONSE	TCGA-24-2030-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	21.22	Recurred/Progressed	YES	G3	55.88	DECEASED	TCGA-24-2030	YES	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-1494-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	22.77	Recurred/Progressed	YES	G3	38.14	LIVING	TCGA-13-1494	YES		IV
+Sensitive		TCGA-31-1951-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	21.62	Recurred/Progressed	YES	G3	22.44	LIVING	TCGA-31-1951	NO	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-30-1853-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	20.83	Recurred/Progressed	YES	G3	36.24	DECEASED	TCGA-30-1853	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0765-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	21.95	Recurred/Progressed	YES	G3	28.55	LIVING	TCGA-13-0765	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1693-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	22.8	Recurred/Progressed	YES	G3	101.68	LIVING	TCGA-29-1693	NO	>20mm	IIIC
+Sensitive	PROGRESSIVE DISEASE	TCGA-29-1766-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	22.08	Recurred/Progressed	YES	G2	39.36	DECEASED	TCGA-29-1766	NO	11-20 mm	IIIC
+Sensitive	STABLE DISEASE	TCGA-20-1683-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	20.3	Recurred/Progressed	YES	G3	25.36	LIVING	TCGA-20-1683	NO	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1691-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	20.14	Recurred/Progressed	YES	G2	48.29	DECEASED	TCGA-29-1691	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0883-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	26.87	Recurred/Progressed	YES	G3	68.86	DECEASED	TCGA-13-0883	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-23-2084-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	20.34	Recurred/Progressed	YES	G3	49.81	DECEASED	TCGA-23-2084	NO	No Macroscopic disease	IV
+Sensitive	COMPLETE RESPONSE	TCGA-24-1614-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	21.16	Recurred/Progressed	YES	G3	48.29	DECEASED	TCGA-24-1614	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1771-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	19.51	Recurred/Progressed	YES	G2	22.5	LIVING	TCGA-29-1771	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-23-1114-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	20.83	Recurred/Progressed	YES	G3	68.63	DECEASED	TCGA-23-1114	NO	No Macroscopic disease	IIIC
+Sensitive	PARTIAL RESPONSE	TCGA-13-1482-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	19.78	Recurred/Progressed	YES	G2	61.67	DECEASED	TCGA-13-1482	YES	>20mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-31-1944-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	22.27	Recurred/Progressed	YES	G3	45.53	LIVING	TCGA-31-1944	NO	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-23-1124-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	21.06	Recurred/Progressed	YES	G3	58.08	DECEASED	TCGA-23-1124	YES	No Macroscopic disease	IIIC
+Sensitive	STABLE DISEASE	TCGA-29-1768-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	17.97	Recurred/Progressed	YES	G3	31.28	DECEASED	TCGA-29-1768	NO	>20mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-36-1574-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	21.29	Recurred/Progressed	YES	G3	22.54	LIVING	TCGA-36-1574	YES	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0766-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	20.63	Recurred/Progressed	YES	G3	21.39	LIVING	TCGA-13-0766	NO	1-10 mm	IIIC
+Sensitive	PARTIAL RESPONSE	TCGA-24-1544-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	21.12	Recurred/Progressed	YES	G3	26.94	DECEASED	TCGA-24-1544	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-2254-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	19.91	Recurred/Progressed	YES	G3	57.03	DECEASED	TCGA-24-2254	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-25-1633-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	20.24	Recurred/Progressed	YES	G3	62.13	DECEASED	TCGA-25-1633	YES	1-10 mm	IIIC
+Sensitive	PARTIAL RESPONSE	TCGA-36-1568-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	17.97	Recurred/Progressed	YES	G3	28.71	LIVING	TCGA-36-1568	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-09-2051-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	19.15	Recurred/Progressed	YES	G3	63.05	LIVING	TCGA-09-2051	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-25-2398-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	18.96	Recurred/Progressed	YES	G3	44.98	DECEASED	TCGA-25-2398	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0899-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	17.97	Recurred/Progressed	YES	G3	56.11	LIVING	TCGA-13-0899	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-2414-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	18.1	Recurred/Progressed	YES	G2	86.11	DECEASED	TCGA-29-2414	NO	11-20 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0897-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	18.17	Recurred/Progressed	YES	G3	57.43	LIVING	TCGA-13-0897	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1553-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	18.17	Recurred/Progressed	YES	G3	58.05	DECEASED	TCGA-24-1553	YES	1-10 mm	IIIB
+Sensitive	COMPLETE RESPONSE	TCGA-13-1499-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	19.12	Recurred/Progressed	YES	G3	38.34	LIVING	TCGA-13-1499	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-25-2400-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	18.96	Recurred/Progressed	YES	G3	41.99	DECEASED	TCGA-25-2400	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-04-1348-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	18.86	Recurred/Progressed	YES	G3	48.72	DECEASED	TCGA-04-1348	YES	1-10 mm	IIIB
+Sensitive	STABLE DISEASE	TCGA-09-2045-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	20.73	Recurred/Progressed	YES	G2	35.12	DECEASED	TCGA-09-2045	YES	1-10 mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-13-0751-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	21.45	Recurred/Progressed	YES		55.13	DECEASED	TCGA-13-0751	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-2289-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	18.66	Recurred/Progressed	YES	G3	67.32	DECEASED	TCGA-24-2289	YES	>20mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-25-1635-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	20.17	Recurred/Progressed	YES	G3	52.01	DECEASED	TCGA-25-1635	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-23-1030-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	17.84	Recurred/Progressed	YES	G3	29.08	LIVING	TCGA-23-1030	YES	1-10 mm	IIIC
+Sensitive		TCGA-61-2109-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.28	Recurred/Progressed	YES	G3	20.66	DECEASED	TCGA-61-2109	YES	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-09-1670-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	17.97	Recurred/Progressed	YES	G3	17.97	LIVING	TCGA-09-1670	NO	No Macroscopic disease	IIIA
+Sensitive	COMPLETE RESPONSE	TCGA-23-1023-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	16.1	Recurred/Progressed	YES	G3	40.51	LIVING	TCGA-23-1023	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1435-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	16.59	Recurred/Progressed	YES	G3	43.5	DECEASED	TCGA-24-1435	YES	1-10 mm	IIIC
+Sensitive	PARTIAL RESPONSE	TCGA-13-1491-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	16.69	Recurred/Progressed	YES	G3	52.4	DECEASED	TCGA-13-1491	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-2027-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	20.27	Recurred/Progressed	YES	G3	109.6	DECEASED	TCGA-24-2027	NO	>20mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-24-2280-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	17.54	Recurred/Progressed	YES	G3	70.4	LIVING	TCGA-24-2280	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1466-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	16.13	Recurred/Progressed	YES	G3	45.11	DECEASED	TCGA-24-1466	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-09-1667-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	15.11	Recurred/Progressed	YES	G2	61.83	LIVING	TCGA-09-1667	NO	No Macroscopic disease	IIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1430-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	14.72	Recurred/Progressed	YES	G3	28.32	DECEASED	TCGA-24-1430	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-25-1632-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	17.64	Recurred/Progressed	YES	G3	59.1	DECEASED	TCGA-25-1632	YES	1-10 mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-61-1728-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	17.51	Recurred/Progressed	YES	G3	27.86	LIVING	TCGA-61-1728	YES	1-10 mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-29-1763-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	14.06	Recurred/Progressed	YES	G2	66.73	LIVING	TCGA-29-1763	NO	1-10 mm	IIC
+Sensitive	COMPLETE RESPONSE	TCGA-23-2072-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.64	Recurred/Progressed	YES	G3	24.94	DECEASED	TCGA-23-2072	YES	>20mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-13-0912-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.38	Recurred/Progressed	YES	G3	34.04	LIVING	TCGA-13-0912	YES	No Macroscopic disease	IIIC
+Sensitive	PARTIAL RESPONSE	TCGA-13-1498-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	17.51	Recurred/Progressed	YES	G3	37.58	LIVING	TCGA-13-1498	YES	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1697-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	16.39	Recurred/Progressed	YES	G3	31.14	DECEASED	TCGA-29-1697	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1785-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	15.54	Recurred/Progressed	YES	G3	36.27	DECEASED	TCGA-29-1785	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-2029-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	17.61	Recurred/Progressed	YES	G3	14.42	DECEASED	TCGA-24-2029	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-1741-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	16	Recurred/Progressed	YES	G3	33.64	DECEASED	TCGA-61-1741	NO	>20mm	IIIB
+Sensitive	COMPLETE RESPONSE	TCGA-13-1484-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	16.3	Recurred/Progressed	YES	G3	97.97	LIVING	TCGA-13-1484	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0908-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	18.14	Recurred/Progressed	YES	G3	44.81	LIVING	TCGA-13-0908	NO	1-10 mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-09-1666-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.77	Recurred/Progressed	YES	G3	57.53	LIVING	TCGA-09-1666	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-25-2404-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	13.96	Recurred/Progressed	YES	G3	28.98	DECEASED	TCGA-25-2404	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-2024-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	13.83	Recurred/Progressed	YES	G3	58.12	DECEASED	TCGA-24-2024	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-04-1331-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.08	Recurred/Progressed	YES	G3	43.89	DECEASED	TCGA-04-1331	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-23-1022-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.78	Recurred/Progressed	YES	G3	49.64	DECEASED	TCGA-23-1022	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1105-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.44	Recurred/Progressed	YES	G3	47.37	DECEASED	TCGA-24-1105	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-25-1321-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.88	Recurred/Progressed	YES	G3	33.94	DECEASED	TCGA-25-1321	YES	No Macroscopic disease	IIIC
+Sensitive		TCGA-04-1646-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	16.69	Recurred/Progressed	YES	G3	27.86	DECEASED	TCGA-04-1646	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1930-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	17.84	Recurred/Progressed	YES	G3	81.05	DECEASED	TCGA-24-1930	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-1918-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	13.57	Recurred/Progressed	YES	G3	15.74	DECEASED	TCGA-61-1918	NO	No Macroscopic disease	IV
+Sensitive		TCGA-04-1536-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	16.36	Recurred/Progressed	YES	G3	29.04	DECEASED	TCGA-04-1536	NO	1-10 mm	IV
+Sensitive		TCGA-04-1648-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	13.54	Recurred/Progressed	YES	G2	28.62	DECEASED	TCGA-04-1648	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-09-1665-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.38	Recurred/Progressed	YES	G2	41.56	DECEASED	TCGA-09-1665	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1563-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	13.01	Recurred/Progressed	YES	G3	47.67	DECEASED	TCGA-24-1563	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0887-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	16.85	Recurred/Progressed	YES	G3	66.59	DECEASED	TCGA-13-0887	YES	1-10 mm	IIIC
+Sensitive	PROGRESSIVE DISEASE	TCGA-25-1320-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	13.9	Recurred/Progressed	YES	G3	37.91	DECEASED	TCGA-25-1320	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-25-1313-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	12.94	Recurred/Progressed	YES	G3	26.91	DECEASED	TCGA-25-1313	YES	1-10 mm	IV
+Sensitive	PARTIAL RESPONSE	TCGA-25-1326-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	12.98	Recurred/Progressed	YES	G3	41	DECEASED	TCGA-25-1326	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-0979-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.06	Recurred/Progressed	YES	G3	41.53	DECEASED	TCGA-24-0979	YES	>20mm	IV
+Sensitive	PARTIAL RESPONSE	TCGA-36-1570-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	12.32	Recurred/Progressed	YES	G3	21.52	LIVING	TCGA-36-1570	YES	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-25-1323-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	11.99	Recurred/Progressed	YES	G3	12.98	DECEASED	TCGA-25-1323	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-24-1616-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	13.31	Recurred/Progressed	YES	G3	38.21	DECEASED	TCGA-24-1616	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1770-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	12.39	Recurred/Progressed	YES	G2	24.34	LIVING	TCGA-29-1770	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0894-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	18.56	Recurred/Progressed	YES	G3	49.58	DECEASED	TCGA-13-0894	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0901-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	12.81	Recurred/Progressed	YES	G3	19.35	LIVING	TCGA-13-0901	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-10-0933-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.7	Recurred/Progressed	YES	G3	14.65	DECEASED	TCGA-10-0933	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0726-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	12.88	Recurred/Progressed	YES		31.14	DECEASED	TCGA-13-0726	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-23-1110-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.71	Recurred/Progressed	YES	G3	54.47	LIVING	TCGA-23-1110	YES	No Macroscopic disease	IIIC
+Sensitive		TCGA-04-1332-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	12.98	Recurred/Progressed	YES	G3	40.97	DECEASED	TCGA-04-1332	YES	1-10 mm	IIIC
+Sensitive	PARTIAL RESPONSE	TCGA-24-1474-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.87	Recurred/Progressed	YES	G3	22.18	DECEASED	TCGA-24-1474	YES	1-10 mm	IIIC
+Sensitive	PARTIAL RESPONSE	TCGA-13-1501-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	12.88	Recurred/Progressed	YES	G3	32.82	LIVING	TCGA-13-1501	YES	>20mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-09-0364-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	12.98	Recurred/Progressed	YES	G3	29.14	DECEASED	TCGA-09-0364	NO	11-20 mm	IIC
+Sensitive	COMPLETE RESPONSE	TCGA-04-1517-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.47	Recurred/Progressed	YES	G3	19.97	DECEASED	TCGA-04-1517	YES	>20mm	IIIC
+Sensitive	PARTIAL RESPONSE	TCGA-31-1950-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.47	Recurred/Progressed	YES	G2	18.76	LIVING	TCGA-31-1950	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-1487-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	13.54	Recurred/Progressed	YES		22.37	DECEASED	TCGA-13-1487	YES		IV
+Sensitive	COMPLETE RESPONSE	TCGA-25-1623-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.24	Recurred/Progressed	YES	G3	18.56	DECEASED	TCGA-25-1623	YES	No Macroscopic disease	IV
+Sensitive	COMPLETE RESPONSE	TCGA-23-1122-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.69	Recurred/Progressed	YES	G3	39.06	DECEASED	TCGA-23-1122	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0761-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	13.9	Recurred/Progressed	YES	G3	34.04	LIVING	TCGA-13-0761	YES	No Macroscopic disease	IV
+Sensitive	COMPLETE RESPONSE	TCGA-24-2290-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.64	Recurred/Progressed	YES	G3	36.2	DECEASED	TCGA-24-2290	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-36-1571-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	12.29	Recurred/Progressed	YES	G3	22.83	DECEASED	TCGA-36-1571	YES	No Macroscopic disease	IIIB
+Sensitive	PROGRESSIVE DISEASE	TCGA-29-1774-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	7.65	Recurred/Progressed	YES	G3	17.28	LIVING	TCGA-29-1774	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-04-1530-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.5	Recurred/Progressed	YES	G3	118.99	DECEASED	TCGA-04-1530	YES	1-10 mm	IIIC
+Sensitive	PARTIAL RESPONSE	TCGA-30-1880-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	11.43	Recurred/Progressed	YES	G3	57.53	DECEASED	TCGA-30-1880	NO	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-30-1860-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	13.04	Recurred/Progressed	YES	G3	44.88	DECEASED	TCGA-30-1860	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0793-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.53	Recurred/Progressed	YES	G3	28.68	LIVING	TCGA-13-0793	YES	1-10 mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-13-1488-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.53	Recurred/Progressed	YES	G3	70.77	DECEASED	TCGA-13-1488	YES	11-20 mm	IV
+Resistant	PARTIAL RESPONSE	TCGA-25-2393-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.02	Recurred/Progressed	YES	G3	38.01	DECEASED	TCGA-25-2393	YES	11-20 mm	IIIC
+Resistant		TCGA-04-1338-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	12.48	Recurred/Progressed	YES	G3	46.59	LIVING	TCGA-04-1338	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-25-1634-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	12.48	Recurred/Progressed	YES	G3	35.84	DECEASED	TCGA-25-1634	YES	No Macroscopic disease	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-09-0369-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	8.97	Recurred/Progressed	YES	G3	35.51	DECEASED	TCGA-09-0369	YES	No Macroscopic disease	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-13-0893-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.15	Recurred/Progressed	YES	G3	43.33	DECEASED	TCGA-13-0893	YES	11-20 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-29-1775-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	11.2	Recurred/Progressed	YES	G2	12.35	LIVING	TCGA-29-1775	NO		IIIC
+Resistant	COMPLETE RESPONSE	TCGA-10-0931-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.86	Recurred/Progressed	YES	G3	32.85	DECEASED	TCGA-10-0931	YES	1-10 mm	IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-10-0938-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.89	Recurred/Progressed	YES	G3	20.89	DECEASED	TCGA-10-0938	YES	>20mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-29-1696-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	11.24	Recurred/Progressed	YES	G2	33.9	DECEASED	TCGA-29-1696	NO	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-13-0804-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.81	Recurred/Progressed	YES	G3	35.25	DECEASED	TCGA-13-0804	YES	1-10 mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-24-1557-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.69	Recurred/Progressed	YES	G3	39.85	DECEASED	TCGA-24-1557	YES	>20mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-29-1703-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	10.64	Recurred/Progressed	YES	G2	59.63	DECEASED	TCGA-29-1703	NO	1-10 mm	IIIC
+Resistant		TCGA-24-1464-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.61	Recurred/Progressed	YES	G3	12.45	DECEASED	TCGA-24-1464	YES	>20mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-30-1866-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	9.33	Recurred/Progressed	YES	G2	36.6	DECEASED	TCGA-30-1866	NO	1-10 mm	IV
+Resistant	COMPLETE RESPONSE	TCGA-23-2079-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.3	Recurred/Progressed	YES	G3	91.6	LIVING	TCGA-23-2079	YES	No Macroscopic disease	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-24-1924-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	10.51	Recurred/Progressed	YES	G3	30.19	DECEASED	TCGA-24-1924	NO	1-10 mm	IIIC
+Resistant		TCGA-24-1567-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.01	Recurred/Progressed	YES	G3	17.22	DECEASED	TCGA-24-1567	YES	1-10 mm	IIIB
+Resistant	COMPLETE RESPONSE	TCGA-13-0920-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.76	Recurred/Progressed	YES	G3	13.8	LIVING	TCGA-13-0920	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-10-0926-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.43	Recurred/Progressed	YES	G3	25.89	DECEASED	TCGA-10-0926	YES	11-20 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-13-0791-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.23	Recurred/Progressed	YES	G3	38.9	LIVING	TCGA-13-0791	YES	No Macroscopic disease	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-29-1701-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	9.79	Recurred/Progressed	YES	G3	16.92	DECEASED	TCGA-29-1701	NO		IIIC
+Resistant	COMPLETE RESPONSE	TCGA-13-0727-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	8.31	Recurred/Progressed	YES	G3	15.18	DECEASED	TCGA-13-0727	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-24-1552-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	13.24	Recurred/Progressed	YES	G3	41.36	DECEASED	TCGA-24-1552	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-23-1117-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	13.73	Recurred/Progressed	YES	G3	33.28	DECEASED	TCGA-23-1117	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-13-0795-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.68	Recurred/Progressed	YES	G3	19.55	LIVING	TCGA-13-0795	YES	>20mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-25-2409-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.95	Recurred/Progressed	YES	G3	26.94	DECEASED	TCGA-25-2409	YES	1-10 mm	IV
+Resistant	COMPLETE RESPONSE	TCGA-30-1714-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	7.92	Recurred/Progressed	YES	G3	38.04	DECEASED	TCGA-30-1714	NO	1-10 mm	IV
+Resistant	COMPLETE RESPONSE	TCGA-30-1892-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.31	Recurred/Progressed	YES	G3	48.75	DECEASED	TCGA-30-1892	NO	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-13-0717-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.66	Recurred/Progressed	YES	G3	24.57	DECEASED	TCGA-13-0717	YES	>20mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-24-2033-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	11.53	Recurred/Progressed	YES	G3	18.46	DECEASED	TCGA-24-2033	NO	>20mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-29-1705-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	9.3	Recurred/Progressed	YES	G2	18.23	DECEASED	TCGA-29-1705	NO	>20mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-13-0803-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	11.04	Recurred/Progressed	YES	G3	43.79	DECEASED	TCGA-13-0803	NO	No Macroscopic disease	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-13-0720-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.59	Recurred/Progressed	YES	G3	44.52	DECEASED	TCGA-13-0720	YES	1-10 mm	IIIC
+Resistant	STABLE DISEASE	TCGA-61-2000-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.14	Recurred/Progressed	YES	G3	14.49	LIVING	TCGA-61-2000	YES	No Macroscopic disease	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-25-1626-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.45	Recurred/Progressed	YES	G3	16.99	DECEASED	TCGA-25-1626	YES	>20mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-13-0764-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.94	Recurred/Progressed	YES	G3	31.01	LIVING	TCGA-13-0764	NO	1-10 mm	IV
+Resistant	PARTIAL RESPONSE	TCGA-24-1434-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	11.07	Recurred/Progressed	YES	G3	18.66	DECEASED	TCGA-24-1434	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-24-1923-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	11.27	Recurred/Progressed	YES	G3	22.64	DECEASED	TCGA-24-1923	NO	1-10 mm	IIIC
+Resistant	STABLE DISEASE	TCGA-25-1628-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.4	Recurred/Progressed	YES	G3	20.57	DECEASED	TCGA-25-1628	YES	1-10 mm	IIIC
+Resistant		TCGA-04-1638-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	9.79	Recurred/Progressed	YES	G3	55.36	DECEASED	TCGA-04-1638	NO	No Macroscopic disease	IV
+Resistant	COMPLETE RESPONSE	TCGA-24-1564-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7.26	Recurred/Progressed	YES	G3	25.86	DECEASED	TCGA-24-1564	YES	1-10 mm	IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-04-1364-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.46	Recurred/Progressed	YES	G3	33.64	DECEASED	TCGA-04-1364	YES	1-10 mm	IIIC
+Resistant		TCGA-57-1586-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.51	Recurred/Progressed	YES	G3	22.31	LIVING	TCGA-57-1586	NO	11-20 mm	IIIC
+Resistant		TCGA-36-1578-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.18	Recurred/Progressed	YES	G3	27.83	LIVING	TCGA-36-1578	YES	>20mm	IV
+Resistant		TCGA-36-1580-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.46	Recurred/Progressed	YES	G3	24.21	DECEASED	TCGA-36-1580	YES	>20mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-13-0911-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.13	Recurred/Progressed	YES	G3	27.66	LIVING	TCGA-13-0911	YES	1-10 mm	IV
+Resistant	COMPLETE RESPONSE	TCGA-29-1702-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	9.36	Recurred/Progressed	YES	G3	23.92	DECEASED	TCGA-29-1702	NO	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-10-0937-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7.72	Recurred/Progressed	YES	G3	19.97	DECEASED	TCGA-10-0937	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-24-1548-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.8	Recurred/Progressed	YES	G3	16.2	DECEASED	TCGA-24-1548	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-61-1906-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	7.75	Recurred/Progressed	YES	G3	34.1	DECEASED	TCGA-61-1906	NO	11-20 mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-13-0904-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.81	Recurred/Progressed	YES	G3	48.29	LIVING	TCGA-13-0904	YES	>20mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-24-1562-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7.49	Recurred/Progressed	YES	G3	45.47	DECEASED	TCGA-24-1562	YES	1-10 mm	IIIC
+Resistant	STABLE DISEASE	TCGA-09-0366-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.21	Recurred/Progressed	YES	G3	57.69	DECEASED	TCGA-09-0366	YES	1-10 mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-25-1318-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.08	Recurred/Progressed	YES	G3	34.96	DECEASED	TCGA-25-1318	YES	1-10 mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-25-2399-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7.98	Recurred/Progressed	YES	G3	19.97	DECEASED	TCGA-25-2399	YES	>20mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-13-1483-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.72	Recurred/Progressed	YES	G3	29.37	DECEASED	TCGA-13-1483	YES	>20mm	IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-25-1316-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.07	Recurred/Progressed	YES	G3	42.02	DECEASED	TCGA-25-1316	YES	1-10 mm	IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-10-0934-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	3.61	Recurred/Progressed	YES	G3	6.67	DECEASED	TCGA-10-0934	YES	1-10 mm	IIIC
+Resistant		TCGA-24-1431-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.54	Recurred/Progressed	YES	G3	19.15	DECEASED	TCGA-24-1431	YES	1-10 mm	IIIC
+Resistant		TCGA-04-1362-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7.33	Recurred/Progressed	YES	G3	44.29	DECEASED	TCGA-04-1362	YES	1-10 mm	IIC
+Resistant	PROGRESSIVE DISEASE	TCGA-61-2110-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7	Recurred/Progressed	YES		44.48	DECEASED	TCGA-61-2110	YES	No Macroscopic disease	IIIC
+Resistant	STABLE DISEASE	TCGA-61-1733-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	5.72	Recurred/Progressed	YES	G3	31.74	LIVING	TCGA-61-1733	NO	No Macroscopic disease	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-04-1349-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	13.96	Recurred/Progressed	YES	G3	21.55	DECEASED	TCGA-04-1349	YES		IV
+Resistant	PARTIAL RESPONSE	TCGA-30-1891-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	5.95	Recurred/Progressed	YES	G2	30.03	DECEASED	TCGA-30-1891	YES	1-10 mm	IIIC
+Resistant	STABLE DISEASE	TCGA-61-1901-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	10.81	Recurred/Progressed	YES	G3	11.4	DECEASED	TCGA-61-1901	NO		IV
+Resistant	PARTIAL RESPONSE	TCGA-13-1500-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.31	Recurred/Progressed	YES	G3	13.96	DECEASED	TCGA-13-1500	NO	11-20 mm	IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-13-1477-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7.69	Recurred/Progressed	YES	G2	54.57	DECEASED	TCGA-13-1477	YES	1-10 mm	IV
+Resistant	PARTIAL RESPONSE	TCGA-25-1328-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	8.02	Recurred/Progressed	YES	G3	66	DECEASED	TCGA-25-1328	YES	1-10 mm	IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-13-0805-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	5.78	Recurred/Progressed	YES	G3	35.28	DECEASED	TCGA-13-0805	NO	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-04-1525-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.96	Recurred/Progressed	YES	G3	38.34	DECEASED	TCGA-04-1525	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-24-0982-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.99	Recurred/Progressed	YES	G3	22.31	DECEASED	TCGA-24-0982	YES	1-10 mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-24-1558-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	8.97	Recurred/Progressed	YES	G3	19.51	DECEASED	TCGA-24-1558	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-13-0757-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	9.63	Recurred/Progressed	YES	G3	11.17	DECEASED	TCGA-13-0757	NO	1-10 mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-30-1856-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	7.19	Recurred/Progressed	YES	G3	15.67	DECEASED	TCGA-30-1856	NO	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-24-1560-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.7	Recurred/Progressed	YES	G3	44.06	DECEASED	TCGA-24-1560	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-23-1028-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.37	Recurred/Progressed	YES	G3	49.38	LIVING	TCGA-23-1028	YES	1-10 mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-24-1565-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.76	Recurred/Progressed	YES	G3	10.25	DECEASED	TCGA-24-1565	YES	1-10 mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-13-1485-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	5.59	Recurred/Progressed	YES	G2	20.66	DECEASED	TCGA-13-1485	NO	1-10 mm	IV
+Resistant	PROGRESSIVE DISEASE	TCGA-13-0724-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	2.73	Recurred/Progressed	YES	G3	2.73	DECEASED	TCGA-13-0724	YES	1-10 mm	IV
+Resistant	PROGRESSIVE DISEASE	TCGA-13-0723-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.9	Recurred/Progressed	YES	G3	39.56	DECEASED	TCGA-13-0723	YES	>20mm	IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-31-1953-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	2.3	Recurred/Progressed	YES	G3	6.7	LIVING	TCGA-31-1953	YES		IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-61-1738-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	9.07	Recurred/Progressed	YES	G3	35.78	DECEASED	TCGA-61-1738	NO	1-10 mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-25-1315-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	5.03	Recurred/Progressed	YES	G3	52.01	DECEASED	TCGA-25-1315	YES	1-10 mm	IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-13-0755-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	1.12	Recurred/Progressed	YES	G3	2.46	DECEASED	TCGA-13-0755	YES	1-10 mm	IV
+Resistant	PROGRESSIVE DISEASE	TCGA-23-1027-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	3.75	Recurred/Progressed	YES	G3	32.03	DECEASED	TCGA-23-1027	YES	1-10 mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-13-0725-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	6.24	Recurred/Progressed	YES	G3	12.39	DECEASED	TCGA-13-0725	NO	1-10 mm	IIIC
+Resistant	PARTIAL RESPONSE	TCGA-24-0970-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.2	Recurred/Progressed	YES	G3	11.63	DECEASED	TCGA-24-0970	YES	>20mm	IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-24-0980-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.76	Recurred/Progressed	YES	G3	7.65	DECEASED	TCGA-24-0980	YES	>20mm	IIIC
+Resistant	COMPLETE RESPONSE	TCGA-29-1698-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	5.91	Recurred/Progressed	YES	G3	68.24	LIVING	TCGA-29-1698	NO	1-10 mm	IIIC
+Resistant	PROGRESSIVE DISEASE	TCGA-24-1928-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	2.3	Recurred/Progressed	YES	G3	11.04	DECEASED	TCGA-24-1928	NO	11-20 mm	IIIC
+	COMPLETE RESPONSE	TCGA-59-2348-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	180.04	DiseaseFree	YES	G3	180.04	LIVING	TCGA-59-2348	YES		IIIC
+	COMPLETE RESPONSE	TCGA-59-2363-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	5.39	DiseaseFree	YES	G3	5.39	LIVING	TCGA-59-2363	YES	No Macroscopic disease	IIIA
+		TCGA-36-1575-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	8.54	DiseaseFree	YES	G3	8.54	LIVING	TCGA-36-1575	YES	No Macroscopic disease	IIIB
+		TCGA-61-2012-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	30.62	DiseaseFree	YES	G2	30.62	LIVING	TCGA-61-2012	YES		IIC
+	COMPLETE RESPONSE	TCGA-20-0991-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	26.18	DiseaseFree	YES	G3	26.18	LIVING	TCGA-20-0991	YES	No Macroscopic disease	IIB
+	COMPLETE RESPONSE	TCGA-04-1346-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	65.44	DiseaseFree	YES	G2	65.44	LIVING	TCGA-04-1346	YES		IIIC
+		TCGA-25-1631-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	0.3	DiseaseFree	YES	G3	0.3	DECEASED	TCGA-25-1631	YES	1-10 mm	IIIC
+	COMPLETE RESPONSE	TCGA-24-2281-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	44.55	DiseaseFree	YES	G3	44.55	LIVING	TCGA-24-2281	YES	1-10 mm	IIA
+		TCGA-24-1471-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	1.18	DiseaseFree	YES	G3	1.18	LIVING	TCGA-24-1471	YES	>20mm	IIIC
+		TCGA-57-1993-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	25.03	DiseaseFree	YES	G3	25.03	LIVING	TCGA-57-1993	YES	No Macroscopic disease	IIIC
+	COMPLETE RESPONSE	TCGA-04-1336-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	49.12	DiseaseFree	YES	G3	49.12	LIVING	TCGA-04-1336	YES	No Macroscopic disease	IIIB
+	PARTIAL RESPONSE	TCGA-36-1569-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	29.04	DiseaseFree	YES	G3	29.04	LIVING	TCGA-36-1569	YES	1-10 mm	IIIC
+		TCGA-24-1428-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.72	Recurred/Progressed	YES	G3	17.35	LIVING	TCGA-24-1428	YES	1-10 mm	IIIC
+		TCGA-24-2019-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.86	DiseaseFree	YES	G3	4.86	LIVING	TCGA-24-2019	YES	1-10 mm	IIIC
+	COMPLETE RESPONSE	TCGA-36-1577-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	25.72	DiseaseFree	YES	G2	25.72	LIVING	TCGA-36-1577	YES	No Macroscopic disease	IIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0885-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	91.33	DiseaseFree	YES	G3	91.33	LIVING	TCGA-13-0885	YES	11-20 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-23-2078-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	87.42	DiseaseFree	YES	G3	87.42	LIVING	TCGA-23-2078	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-23-1118-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	85.94	DiseaseFree	YES	G3	85.94	LIVING	TCGA-23-1118	YES	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-1481-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	87	DiseaseFree	YES	G2	87	DECEASED	TCGA-13-1481	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-09-2050-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	71.06	DiseaseFree	YES	G2	71.06	LIVING	TCGA-09-2050	YES	No Macroscopic disease	IIA
+Sensitive	COMPLETE RESPONSE	TCGA-61-2094-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	71.69	DiseaseFree	YES	G3	71.69	LIVING	TCGA-61-2094	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0886-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	74.22	DiseaseFree	YES	G3	74.22	LIVING	TCGA-13-0886	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-1492-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	73.49	DiseaseFree	YES	G3	73.49	LIVING	TCGA-13-1492	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-04-1367-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	71.42	DiseaseFree	YES	G3	71.42	LIVING	TCGA-04-1367	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-1915-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	67.68	DiseaseFree	YES	G3	67.68	LIVING	TCGA-61-1915	NO		IIC
+Sensitive	PARTIAL RESPONSE	TCGA-13-0888-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	70.34	DiseaseFree	YES	G3	70.34	LIVING	TCGA-13-0888	NO	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-2098-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	65.44	DiseaseFree	YES	G2	65.44	LIVING	TCGA-61-2098	NO	11-20 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0890-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	67.94	DiseaseFree	YES	G3	67.94	LIVING	TCGA-13-0890	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-04-1347-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	63.01	DiseaseFree	YES	G3	63.01	LIVING	TCGA-04-1347	YES	No Macroscopic disease	IV
+Sensitive	COMPLETE RESPONSE	TCGA-13-0889-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	61.76	DiseaseFree	YES		61.76	LIVING	TCGA-13-0889	YES	1-10 mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-61-2097-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	60.58	DiseaseFree	YES	G2	60.58	LIVING	TCGA-61-2097	YES	1-10 mm	IIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0900-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	57.03	DiseaseFree	YES	G3	57.03	LIVING	TCGA-13-0900	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-2092-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	51.68	DiseaseFree	YES	G3	51.68	LIVING	TCGA-61-2092	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-1913-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	48.89	DiseaseFree	YES	G3	48.89	LIVING	TCGA-61-1913	NO	1-10 mm	IIIB
+Sensitive	COMPLETE RESPONSE	TCGA-25-2391-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	49.02	DiseaseFree	YES	G3	49.02	DECEASED	TCGA-25-2391	YES	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0905-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	47.8	DiseaseFree	YES	G3	47.8	LIVING	TCGA-13-0905	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-2428-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	45.07	DiseaseFree	YES	G3	45.07	LIVING	TCGA-29-2428	NO	>20mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0906-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	44.91	DiseaseFree	YES	G3	44.91	LIVING	TCGA-13-0906	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-1737-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	44.81	DiseaseFree	YES	G3	44.81	LIVING	TCGA-61-1737	NO	1-10 mm	IV
+Sensitive	COMPLETE RESPONSE	TCGA-09-2053-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	39.72	DiseaseFree	YES	G3	39.72	LIVING	TCGA-09-2053	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-61-1910-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	36.99	DiseaseFree	YES	G3	36.99	LIVING	TCGA-61-1910	NO	1-10 mm	IIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1711-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	34.59	DiseaseFree	YES	G2	34.59	LIVING	TCGA-29-1711	NO	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0762-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	32.23	DiseaseFree	YES	G3	32.23	LIVING	TCGA-13-0762	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0910-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	37.06	DiseaseFree	YES	G3	37.06	LIVING	TCGA-13-0910	YES	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-20-1682-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	27.47	DiseaseFree	YES		27.47	LIVING	TCGA-20-1682	NO	11-20 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1769-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	22.96	DiseaseFree	YES	G3	22.96	LIVING	TCGA-29-1769	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0916-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	21.12	DiseaseFree	YES	G3	21.12	LIVING	TCGA-13-0916	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-20-1684-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	19.05	DiseaseFree	YES	G3	19.05	LIVING	TCGA-20-1684	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-20-1685-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	16.66	DiseaseFree	YES	G3	16.66	LIVING	TCGA-20-1685	NO	1-10 mm	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-29-1778-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	14.92	DiseaseFree	YES	G3	14.92	LIVING	TCGA-29-1778	NO	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-0919-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	14.88	DiseaseFree	YES	G3	14.88	LIVING	TCGA-13-0919	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-09-2056-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	12.45	DiseaseFree	YES	G3	12.45	LIVING	TCGA-09-2056	YES	No Macroscopic disease	IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-1504-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	16.56	DiseaseFree	YES	G3	16.56	LIVING	TCGA-13-1504	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-13-1403-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	10.87	DiseaseFree	YES	G3	10.87	LIVING	TCGA-13-1403	YES		IIIC
+Sensitive	COMPLETE RESPONSE	TCGA-23-1029-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.8	DiseaseFree	YES	G3	8.8	LIVING	TCGA-23-1029	NO	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-23-1024-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	15.38	DiseaseFree	YES	G3	15.38	LIVING	TCGA-23-1024	YES	1-10 mm	IV
+Tooearly	COMPLETE RESPONSE	TCGA-24-1920-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	9.79	DiseaseFree	YES	G3	9.79	LIVING	TCGA-24-1920	NO	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-24-1469-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	9.1	DiseaseFree	YES	G3	9.1	LIVING	TCGA-24-1469	YES	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-0797-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.71	DiseaseFree	YES	G3	8.71	LIVING	TCGA-13-0797	NO	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-2060-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	8.57	DiseaseFree	YES	G3	8.57	LIVING	TCGA-13-2060	YES	1-10 mm	IV
+Tooearly	COMPLETE RESPONSE	TCGA-24-1419-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7.85	DiseaseFree	YES	G3	7.85	LIVING	TCGA-24-1419	YES	11-20 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-61-1904-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	9.07	DiseaseFree	YES	G3	9.07	LIVING	TCGA-61-1904	NO	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-0768-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.41	DiseaseFree	YES	G3	8.41	LIVING	TCGA-13-0768	NO	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-0800-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	8.11	DiseaseFree	YES	G3	8.11	LIVING	TCGA-13-0800	YES	No Macroscopic disease	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-0801-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.28	DiseaseFree	YES	G3	8.28	LIVING	TCGA-13-0801	NO	No Macroscopic disease	IIIC
+Tooearly	STABLE DISEASE	TCGA-61-1900-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	5.78	DiseaseFree	YES	G3	5.78	LIVING	TCGA-61-1900	NO	No Macroscopic disease	IIIB
+Tooearly	COMPLETE RESPONSE	TCGA-61-1899-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.41	DiseaseFree	YES	G3	8.41	LIVING	TCGA-61-1899	NO	No Macroscopic disease	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-0799-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	7.79	DiseaseFree	YES	G3	7.79	LIVING	TCGA-13-0799	NO	No Macroscopic disease	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-24-1418-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7.98	DiseaseFree	YES	G3	7.98	LIVING	TCGA-24-1418	YES	>20mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-24-1417-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7.82	DiseaseFree	YES	G3	7.82	LIVING	TCGA-24-1417	YES	1-10 mm	IV
+Tooearly	COMPLETE RESPONSE	TCGA-13-1405-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	7.36	DiseaseFree	YES	G3	7.36	LIVING	TCGA-13-1405	YES	1-10 mm	IV
+Tooearly	COMPLETE RESPONSE	TCGA-24-1424-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.01	DiseaseFree	YES	G3	6.01	LIVING	TCGA-24-1424	YES	1-10 mm	IIIC
+Tooearly		TCGA-29-1783-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	7.19	DiseaseFree	YES	G3	7.19	LIVING	TCGA-29-1783	NO		IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-0802-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.18	DiseaseFree	YES	G3	8.18	LIVING	TCGA-13-0802	NO	No Macroscopic disease	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-24-1413-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.31	DiseaseFree	YES	G3	6.31	LIVING	TCGA-24-1413	YES	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-0923-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.41	DiseaseFree	YES	G3	6.41	LIVING	TCGA-13-0923	YES	No Macroscopic disease	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-0924-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.08	DiseaseFree	YES	G3	6.08	LIVING	TCGA-13-0924	YES	1-10 mm	IV
+Tooearly	COMPLETE RESPONSE	TCGA-24-1423-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.24	DiseaseFree	YES	G3	6.24	LIVING	TCGA-24-1423	YES	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-24-1849-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	5.75	DiseaseFree	YES	G3	5.75	LIVING	TCGA-24-1849	NO	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-24-1425-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	5.95	DiseaseFree	YES	G3	5.95	LIVING	TCGA-24-1425	YES	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-09-2044-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.11	DiseaseFree	YES	G3	6.11	LIVING	TCGA-09-2044	YES	No Macroscopic disease	IIB
+Tooearly	COMPLETE RESPONSE	TCGA-24-1850-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	5.49	DiseaseFree	YES	G3	5.49	LIVING	TCGA-24-1850	NO	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-29-1784-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	5.36	DiseaseFree	YES	G3	5.36	LIVING	TCGA-29-1784	NO		IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-24-1470-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	3.42	DiseaseFree	YES	G3	3.42	LIVING	TCGA-24-1470	YES	1-10 mm	IIIB
+Tooearly	COMPLETE RESPONSE	TCGA-24-1416-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.37	DiseaseFree	YES	G3	6.37	LIVING	TCGA-24-1416	YES	1-10 mm	IV
+Tooearly	COMPLETE RESPONSE	TCGA-24-1426-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	5.36	DiseaseFree	YES	G3	5.36	LIVING	TCGA-24-1426	YES	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-1410-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.7	DiseaseFree	YES		4.7	LIVING	TCGA-13-1410	YES		IV
+Tooearly	COMPLETE RESPONSE	TCGA-13-0921-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	4.63	DiseaseFree	YES	G3	4.63	LIVING	TCGA-13-0921	NO	No Macroscopic disease	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-29-1781-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.34	DiseaseFree	YES	G3	8.34	LIVING	TCGA-29-1781	NO		IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-1509-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.14	DiseaseFree	YES	G3	4.14	LIVING	TCGA-13-1509	YES	1-10 mm	IV
+Tooearly		TCGA-23-1121-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	6.37	DiseaseFree	YES	G3	6.37	LIVING	TCGA-23-1121	NO	>20mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-1407-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.05	DiseaseFree	YES	G3	6.05	LIVING	TCGA-13-1407	YES		IIIC
+Tooearly		TCGA-61-2088-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.76	DiseaseFree	YES	G3	4.76	LIVING	TCGA-61-2088	YES	No Macroscopic disease	IIIC
+Tooearly		TCGA-13-1512-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	3.09	DiseaseFree	YES	G3	3.09	LIVING	TCGA-13-1512	YES	No Macroscopic disease	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-24-1847-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	11.27	DiseaseFree	YES	G3	11.27	LIVING	TCGA-24-1847	NO	1-10 mm	IV
+Tooearly	COMPLETE RESPONSE	TCGA-24-1842-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	8.31	DiseaseFree	YES	G3	8.31	LIVING	TCGA-24-1842	NO	1-10 mm	IIIC
+Tooearly		TCGA-24-1845-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	3.81	DiseaseFree	YES	G3	3.81	LIVING	TCGA-24-1845	NO	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-1507-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.76	DiseaseFree	YES	G3	4.76	LIVING	TCGA-13-1507	YES	1-10 mm	IIIC
+Tooearly		TCGA-23-1120-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.27	DiseaseFree	YES	G3	4.27	LIVING	TCGA-23-1120	YES	1-10 mm	IIIC
+Tooearly		TCGA-24-1844-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	3.71	DiseaseFree	YES	G3	3.71	LIVING	TCGA-24-1844	NO	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-24-1843-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	3.48	DiseaseFree	YES	G3	3.48	LIVING	TCGA-24-1843	NO	1-10 mm	IIIC
+Tooearly		TCGA-23-1111-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	3.22	DiseaseFree	YES	G3	3.22	LIVING	TCGA-23-1111	NO	>20mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-1412-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	5.32	DiseaseFree	YES	G3	5.32	LIVING	TCGA-13-1412	YES	1-10 mm	IV
+Tooearly		TCGA-24-1846-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	4.37	DiseaseFree	YES	G3	4.37	LIVING	TCGA-24-1846	NO	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-1505-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.21	DiseaseFree	YES	G3	4.21	LIVING	TCGA-13-1505	YES	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-20-1686-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	2.92	DiseaseFree	YES	G3	2.92	LIVING	TCGA-20-1686	NO	No Macroscopic disease	IIIC
+Tooearly		TCGA-23-1116-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.57	DiseaseFree	YES	G3	4.57	LIVING	TCGA-23-1116	YES	>20mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-1506-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	4.4	DiseaseFree	YES	G3	4.4	LIVING	TCGA-13-1506	YES		IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-13-1404-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	6.6	DiseaseFree	YES	G3	6.6	LIVING	TCGA-13-1404	YES	1-10 mm	IIIC
+Tooearly	COMPLETE RESPONSE	TCGA-20-1687-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	2.66	DiseaseFree	YES	G3	2.66	LIVING	TCGA-20-1687	NO	No Macroscopic disease	IV
+Tooearly		TCGA-23-1809-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	0.53	DiseaseFree	YES	G3	0.53	LIVING	TCGA-23-1809	NO	1-10 mm	IIC
+Tooearly		TCGA-13-1510-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES	2.56	DiseaseFree	YES	G3	2.56	LIVING	TCGA-13-1510	YES	No Macroscopic disease	IIIC
+Tooearly	STABLE DISEASE	TCGA-61-1895-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO	1.41	DiseaseFree	YES	G3	1.41	LIVING	TCGA-61-1895	NO	No Macroscopic disease	IIIB
+	PROGRESSIVE DISEASE	TCGA-57-1582-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	24.02	DECEASED	TCGA-57-1582	YES	1-10 mm	IIIC
+		TCGA-59-2352-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	9.4	DECEASED	TCGA-59-2352	YES		IIIC
+		TCGA-59-2355-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	2.14	DECEASED	TCGA-59-2355	YES	>20mm	IV
+	PARTIAL RESPONSE	TCGA-13-1411-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	4.21	LIVING	TCGA-13-1411	YES	>20mm	IIIC
+	PROGRESSIVE DISEASE	TCGA-04-1342-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G2	18.5	DECEASED	TCGA-04-1342	YES	>20mm	IV
+	STABLE DISEASE	TCGA-29-1761-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	17.35	DECEASED	TCGA-29-1761	NO	>20mm	IIIC
+	COMPLETE RESPONSE	TCGA-09-1674-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	8.54	LIVING	TCGA-09-1674	NO	1-10 mm	IIIC
+		TCGA-04-1337-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G2	2	DECEASED	TCGA-04-1337	YES	No Macroscopic disease	IIIC
+	STABLE DISEASE	TCGA-24-0966-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	7.62	LIVING	TCGA-24-0966	YES	>20mm	IIIC
+		TCGA-24-2261-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	0.79	DECEASED	TCGA-24-2261	YES	11-20 mm	IIIC
+	STABLE DISEASE	TCGA-09-1661-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	38.41	DECEASED	TCGA-09-1661	YES	1-10 mm	IIIC
+		TCGA-61-2102-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	6.47	DECEASED	TCGA-61-2102	YES		IIIC
+		TCGA-13-1409-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	6.83	LIVING	TCGA-13-1409	YES	1-10 mm	IIIC
+		TCGA-23-1032-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	2.76	DECEASED	TCGA-23-1032	YES	1-10 mm	IV
+	PROGRESSIVE DISEASE	TCGA-04-1343-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	11.86	DECEASED	TCGA-04-1343	YES	>20mm	IV
+	PROGRESSIVE DISEASE	TCGA-61-1740-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	2.43	DECEASED	TCGA-61-1740	NO	>20mm	IIIC
+		TCGA-13-0730-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	17.77	DECEASED	TCGA-13-0730	YES	>20mm	IIIC
+		TCGA-10-0928-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	18.46	DECEASED	TCGA-10-0928	YES	1-10 mm	IIIC
+		TCGA-24-2288-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	0.82	DECEASED	TCGA-24-2288	YES	>20mm	IIIC
+	PARTIAL RESPONSE	TCGA-10-0936-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	36.89	DECEASED	TCGA-10-0936	NO	>20mm	IIIC
+		TCGA-10-0935-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	35.38	DECEASED	TCGA-10-0935	YES	1-10 mm	IIIC
+	PARTIAL RESPONSE	TCGA-30-1887-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G2	24.25	DECEASED	TCGA-30-1887	NO	1-10 mm	IIIC
+	PROGRESSIVE DISEASE	TCGA-09-0367-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	17.94	DECEASED	TCGA-09-0367	NO	1-10 mm	IIIC
+	COMPLETE RESPONSE	TCGA-24-1604-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	88.28	DECEASED	TCGA-24-1604	YES		IIIC
+		TCGA-29-1690-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G2	47.57	DECEASED	TCGA-29-1690	NO	11-20 mm	IIIC
+		TCGA-30-1862-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G2	6.08	DECEASED	TCGA-30-1862	YES	>20mm	IV
+		TCGA-30-1857-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	0.26	DECEASED	TCGA-30-1857	NO		IV
+	STABLE DISEASE	TCGA-09-2048-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	4.5	DECEASED	TCGA-09-2048	NO	1-10 mm	IIIC
+	STABLE DISEASE	TCGA-29-1776-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	11.83	LIVING	TCGA-29-1776	NO	>20mm	IIIC
+		TCGA-25-1322-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	2.99	DECEASED	TCGA-25-1322	YES	>20mm	IV
+		TCGA-30-1855-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	2.46	DECEASED	TCGA-30-1855	NO	1-10 mm	IIIC
+	PARTIAL RESPONSE	TCGA-23-1031-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	18.86	DECEASED	TCGA-23-1031	YES	1-10 mm	IV
+	PROGRESSIVE DISEASE	TCGA-25-2042-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	13.01	DECEASED	TCGA-25-2042	YES	>20mm	IIIC
+		TCGA-31-1956-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	44.06	LIVING	TCGA-31-1956	NO		IIIB
+	PARTIAL RESPONSE	TCGA-13-1408-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	5.91	LIVING	TCGA-13-1408	YES	>20mm	IIIC
+		TCGA-23-1107-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	0.3	DECEASED	TCGA-23-1107	NO	>20mm	IV
+	PROGRESSIVE DISEASE	TCGA-23-1123-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	33.44	DECEASED	TCGA-23-1123	YES	11-20 mm	IIIC
+	PARTIAL RESPONSE	TCGA-24-1427-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	4.8	LIVING	TCGA-24-1427	YES	>20mm	IIIC
+	PARTIAL RESPONSE	TCGA-24-0975-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	21.78	DECEASED	TCGA-24-0975	YES	1-10 mm	IIIC
+	PROGRESSIVE DISEASE	TCGA-09-2054-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	20.89	DECEASED	TCGA-09-2054	NO	1-10 mm	IIIC
+		TCGA-57-1583-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	11.37	DECEASED	TCGA-57-1583	YES	No Macroscopic disease	IIIC
+	COMPLETE RESPONSE	TCGA-09-1668-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	55.33	LIVING	TCGA-09-1668	NO		IIIC
+	PARTIAL RESPONSE	TCGA-24-1436-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	8.54	DECEASED	TCGA-24-1436	YES	1-10 mm	IIIC
+	PROGRESSIVE DISEASE	TCGA-57-1585-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	1.74	DECEASED	TCGA-57-1585	NO	11-20 mm	IIIC
+		TCGA-24-2262-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	0.36	DECEASED	TCGA-24-2262	YES	1-10 mm	IIIC
+	PARTIAL RESPONSE	TCGA-30-1859-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	48.03	DECEASED	TCGA-30-1859	NO	1-10 mm	
+	COMPLETE RESPONSE	TCGA-09-1669-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	30.46	LIVING	TCGA-09-1669	YES	No Macroscopic disease	IIIA
+	PROGRESSIVE DISEASE	TCGA-61-2003-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G2	3.98	LIVING	TCGA-61-2003	YES	1-10 mm	IIIC
+	PARTIAL RESPONSE	TCGA-13-1511-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	3.88	LIVING	TCGA-13-1511	NO	>20mm	IV
+	PROGRESSIVE DISEASE	TCGA-61-2016-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	1.18	DECEASED	TCGA-61-2016	YES	No Macroscopic disease	IIIC
+		TCGA-09-1673-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	3.02	LIVING	TCGA-09-1673	NO	>20mm	IV
+	STABLE DISEASE	TCGA-09-1659-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	9.95	DECEASED	TCGA-09-1659	YES	>20mm	IIIC
+		TCGA-31-1959-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G2	2.17	LIVING	TCGA-31-1959	YES		IV
+	PROGRESSIVE DISEASE	TCGA-23-2081-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	76.94	DECEASED	TCGA-23-2081	YES	1-10 mm	IV
+		TCGA-61-1998-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	5.52	LIVING	TCGA-61-1998	YES	1-10 mm	IIIC
+	PARTIAL RESPONSE	TCGA-23-1113-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	31.18	DECEASED	TCGA-23-1113	NO	1-10 mm	IV
+	PROGRESSIVE DISEASE	TCGA-29-1777-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G2	12.29	LIVING	TCGA-29-1777	NO	>20mm	IIIC
+	PROGRESSIVE DISEASE	TCGA-61-1724-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES	G3	20.93	DECEASED	TCGA-61-1724	NO	No Macroscopic disease	IIIC
+		TCGA-30-1867-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES		1.18	DECEASED	TCGA-30-1867	NO		IV
+	PROGRESSIVE DISEASE	TCGA-61-2002-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	17.97	LIVING	TCGA-61-2002	YES	11-20 mm	IIIC
+	STABLE DISEASE	TCGA-29-1694-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		Recurred/Progressed	YES		39	DECEASED	TCGA-29-1694	NO	11-20 mm	IIIC
+	PARTIAL RESPONSE	TCGA-23-1021-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	47.51	DECEASED	TCGA-23-1021	YES	>20mm	IV
+	STABLE DISEASE	TCGA-61-1995-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	1.97	LIVING	TCGA-61-1995	YES	1-10 mm	IIIC
+	COMPLETE RESPONSE	TCGA-13-0903-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	47.34	LIVING	TCGA-13-0903	YES	No Macroscopic disease	IV
+	PARTIAL RESPONSE	TCGA-61-2101-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G2	55.46	DECEASED	TCGA-61-2101	YES	11-20 mm	IIIC
+Sensitive	PARTIAL RESPONSE	TCGA-24-0968-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		Recurred/Progressed	YES	G3	19.61	DECEASED	TCGA-24-0968	YES	1-10 mm	IIIC
+		TCGA-04-1341-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO		DiseaseFree	YES	G3		LIVING	TCGA-04-1341	NO		
+		TCGA-04-1357-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES		DiseaseFree	YES	G3		LIVING	TCGA-04-1357	YES		IIIB
+		TCGA-24-2026-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G3	34.79	DECEASED	TCGA-24-2026	NO	>20mm	IIIC
+		TCGA-24-1422-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	0.76	DECEASED	TCGA-24-1422	YES	1-10 mm	IIIC
+		TCGA-25-1325-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G3	32.06	DECEASED	TCGA-25-1325	NO	>20mm	IV
+		TCGA-25-1329-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	15.01	DECEASED	TCGA-25-1329	YES	11-20 mm	IIIC
+		TCGA-25-2392-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	1.02	DECEASED	TCGA-25-2392	YES	11-20 mm	IV
+		TCGA-30-1861-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G3	34.76	DECEASED	TCGA-30-1861	NO	1-10 mm	IIIC
+		TCGA-25-1324-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	34	DECEASED	TCGA-25-1324	YES	1-10 mm	IIIC
+	COMPLETE RESPONSE	TCGA-25-1630-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	38.18	DECEASED	TCGA-25-1630	YES	1-10 mm	IIIC
+		TCGA-25-1627-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	12.94	DECEASED	TCGA-25-1627	YES	1-10 mm	IIIC
+		TCGA-25-2396-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	3.02	DECEASED	TCGA-25-2396	YES	No Macroscopic disease	IIIC
+		TCGA-25-1312-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G3	1.02	DECEASED	TCGA-25-1312	NO	1-10 mm	IV
+		TCGA-25-1317-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	2.23	DECEASED	TCGA-25-1317	YES		IIIC
+		TCGA-25-2401-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	2.96	DECEASED	TCGA-25-2401	YES	1-10 mm	IIIC
+		TCGA-13-0760-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	11.53	DECEASED	TCGA-13-0760	YES	No Macroscopic disease	IV
+		TCGA-29-1695-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G2	40.38	DECEASED	TCGA-29-1695	NO	>20mm	IIIC
+	COMPLETE RESPONSE	TCGA-61-1917-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G3	43.4	DECEASED	TCGA-61-1917	NO		IIIB
+		TCGA-25-2397-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G3	11.99	DECEASED	TCGA-25-2397	NO	No Macroscopic disease	IV
+		TCGA-29-1699-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G3	36.34	DECEASED	TCGA-29-1699	NO	1-10 mm	IIIC
+	COMPLETE RESPONSE	TCGA-24-2297-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G3	55.82	DECEASED	TCGA-24-2297	NO	>20mm	IIIC
+		TCGA-13-0807-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	13.6	DECEASED	TCGA-13-0807	YES	>20mm	IIIC
+		TCGA-24-1546-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G3	64.23	DECEASED	TCGA-24-1546	NO	1-10 mm	IIIC
+	PROGRESSIVE DISEASE	TCGA-24-2293-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	16.62	DECEASED	TCGA-24-2293	YES	>20mm	
+		TCGA-13-1496-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	YES			YES	G3	4.24	DECEASED	TCGA-13-1496	YES	>20mm	IIIC
+		TCGA-25-2390-01		ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer								TCGA-25-2390			
+		TCGA-04-1370-01		ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer								TCGA-04-1370			
+		TCGA-04-1519-01	YES	ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NO			YES	G3			TCGA-04-1519	NO		IIIC
+		TCGA-29-2435-01		ov_tcga_pub	Ovarian Cancer	High-Grade Serous Ovarian Cancer								TCGA-29-2435			
+		TCGA-61-1721-01		ov_tcga_pub										TCGA-61-1721			
+		TCGA-04-1335-01		ov_tcga_pub										TCGA-04-1335			
+		TCGA-04-1360-01		ov_tcga_pub										TCGA-04-1360			
+		TCGA-04-1516-01		ov_tcga_pub										TCGA-04-1516			
+		TCGA-04-1644-01		ov_tcga_pub										TCGA-04-1644			
+		TCGA-09-1664-01		ov_tcga_pub										TCGA-09-1664			
+		TCGA-09-2043-01		ov_tcga_pub										TCGA-09-2043			
+		TCGA-09-2055-01		ov_tcga_pub										TCGA-09-2055			
+		TCGA-10-0925-01		ov_tcga_pub										TCGA-10-0925			
+		TCGA-13-1817-01		ov_tcga_pub										TCGA-13-1817			
+		TCGA-13-1819-01		ov_tcga_pub										TCGA-13-1819			
+		TCGA-13-2059-01		ov_tcga_pub										TCGA-13-2059			
+		TCGA-13-2061-01		ov_tcga_pub										TCGA-13-2061			
+		TCGA-13-2065-01		ov_tcga_pub										TCGA-13-2065			
+		TCGA-23-2641-01		ov_tcga_pub										TCGA-23-2641			
+		TCGA-23-2643-01		ov_tcga_pub										TCGA-23-2643			
+		TCGA-23-2645-01		ov_tcga_pub										TCGA-23-2645			
+		TCGA-24-1852-01		ov_tcga_pub										TCGA-24-1852			
+		TCGA-24-1927-01		ov_tcga_pub										TCGA-24-1927			
+		TCGA-24-2295-01		ov_tcga_pub										TCGA-24-2295			
+		TCGA-29-2429-01		ov_tcga_pub										TCGA-29-2429			
+		TCGA-29-2431-01		ov_tcga_pub										TCGA-29-2431			
+		TCGA-29-2432-01		ov_tcga_pub										TCGA-29-2432			
+		TCGA-29-2434-01		ov_tcga_pub										TCGA-29-2434			
+		TCGA-29-2436-01		ov_tcga_pub										TCGA-29-2436			
+		TCGA-31-1955-01		ov_tcga_pub										TCGA-31-1955			
+		TCGA-36-2529-01		ov_tcga_pub										TCGA-36-2529			
+		TCGA-36-2530-01		ov_tcga_pub										TCGA-36-2530			
+		TCGA-36-2532-01		ov_tcga_pub										TCGA-36-2532			
+		TCGA-36-2533-01		ov_tcga_pub										TCGA-36-2533			
+		TCGA-36-2534-01		ov_tcga_pub										TCGA-36-2534			
+		TCGA-36-2537-01		ov_tcga_pub										TCGA-36-2537			
+		TCGA-36-2538-01		ov_tcga_pub										TCGA-36-2538			
+		TCGA-36-2539-01		ov_tcga_pub										TCGA-36-2539			
+		TCGA-36-2540-01		ov_tcga_pub										TCGA-36-2540			
+		TCGA-36-2542-01		ov_tcga_pub										TCGA-36-2542			
+		TCGA-36-2543-01		ov_tcga_pub										TCGA-36-2543			
+		TCGA-36-2544-01		ov_tcga_pub										TCGA-36-2544			
+		TCGA-36-2545-01		ov_tcga_pub										TCGA-36-2545			
+		TCGA-36-2547-01		ov_tcga_pub										TCGA-36-2547			
+		TCGA-36-2548-01		ov_tcga_pub										TCGA-36-2548			
+		TCGA-36-2549-01		ov_tcga_pub										TCGA-36-2549			
+		TCGA-36-2551-01		ov_tcga_pub										TCGA-36-2551			
+		TCGA-36-2552-01		ov_tcga_pub										TCGA-36-2552			
+		TCGA-42-2582-01		ov_tcga_pub										TCGA-42-2582			
+		TCGA-42-2587-01		ov_tcga_pub										TCGA-42-2587			
+		TCGA-42-2588-01		ov_tcga_pub										TCGA-42-2588			
+		TCGA-42-2589-01		ov_tcga_pub										TCGA-42-2589			
+		TCGA-42-2590-01		ov_tcga_pub										TCGA-42-2590			
+		TCGA-42-2591-01		ov_tcga_pub										TCGA-42-2591			
+		TCGA-42-2593-01		ov_tcga_pub										TCGA-42-2593			
+		TCGA-59-2349-01		ov_tcga_pub										TCGA-59-2349			
+		TCGA-59-2372-01		ov_tcga_pub										TCGA-59-2372			
+		TCGA-61-1722-01		ov_tcga_pub										TCGA-61-1722			
+		TCGA-61-1727-01		ov_tcga_pub										TCGA-61-1727			
+		TCGA-61-1730-01		ov_tcga_pub										TCGA-61-1730			
+		TCGA-61-1734-01		ov_tcga_pub										TCGA-61-1734			
+		TCGA-61-1903-01		ov_tcga_pub										TCGA-61-1903			
+		TCGA-61-2017-01		ov_tcga_pub										TCGA-61-2017			
+		TCGA-61-2018-01		ov_tcga_pub										TCGA-61-2018			
+		TCGA-61-2087-01		ov_tcga_pub										TCGA-61-2087			
+		TCGA-61-2096-01		ov_tcga_pub										TCGA-61-2096			
+		TCGA-61-2612-01		ov_tcga_pub										TCGA-61-2612			
+		TCGA-61-2613-01		ov_tcga_pub										TCGA-61-2613			
+		TCGA-61-2614-01		ov_tcga_pub										TCGA-61-2614			
+		TCGA-30-1869-01		ov_tcga_pub										TCGA-30-1869			
