@@ -23,10 +23,20 @@ matrices
 			c.) submatrices are combined into phenotype matrix
 with 3 columns: "Sample_ID", "Subtype", "Platinum.Status"
 	B.) R
+		a.) Organizing/Subsetting
+		b.) Limma
+		c.) output/representation
 
 
-Notes:
+Input/Output Notes:
 1. idkey files are passed via the command line, and must be passed into the
 python program execution in the order they appear in subtypeIdClasses.py
 script. 
 2. data files are hardcoded into the clin_dataParserv1.py script
+3. Model 1 -- Uses no contrast matrix: design matrix column 1 is expression
+levels of sensitive platinum status and column 2 represents difference in
+expression level between expression levels of sensitive and resistant groups. 
+   Model 2 -- Uses contrast matrix for different parametrization of data such
+that columns in model 2's design matrix represent expression levels in the
+platinum status groups. 
+4. Model 1 and Model 2 yielded the same results. 
