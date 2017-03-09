@@ -19,7 +19,7 @@ fallopian_pm <- subset(pf, pf$Platinum.Status %in% c("Resistant", "Sensitive") &
 proliferative_pm <- subset(pf, pf$Platinum.Status %in% c("Resistant", "Sensitive") & pf$Subtype %in% c("Proliferative"))
 mesenchymal_pm <- subset(pf, pf$Platinum.Status %in% c("Resistant", "Sensitive") & pf$Subtype %in% c("Mesenchymal"))
 immunoreactive_pm <- subset(pf, pf$Platinum.Status %in% c("Resistant", "Sensitive") & pf$Subtype %in% c("Immunoreactive"))
-
+ 
 #converts phenotype_matrix to data frame
 #phenotype_matrix<-data.frame(phenotype_matrix)
 fallopian_pm <- data.frame(fallopian_pm)
@@ -104,10 +104,21 @@ proliferative_output$adj.P.Val <- NULL
 mesenchymal_output$adj.P.Val <- NULL
 immunoreactive_output$adj.P.Val <- NULL
 
+#removing B values from output data
+fallopian_output$B <- NULL
+proliferative_output$B <- NULL
+mesenchymal_output$B <- NULL
+immunoreactive_output$B<- NULL
+
+#writing output to files
+write.table(fallopian_output, "C:/Users/david/Documents/GitHub/KUMC_OvarianCancer_Feb2017/Outputs/fallopian_output.txt", sep = '\t', row.names = FALSE)
+write.table(proliferative_output, "C:/Users/david/Documents/GitHub/KUMC_OvarianCancer_Feb2017/Outputs/proliferative_output.txt", sep = '\t', row.names = FALSE)
+write.table(mesenchymal_output, "C:/Users/david/Documents/GitHub/KUMC_OvarianCancer_Feb2017/Outputs/mesenchymal_output.txt", sep = '\t', row.names = FALSE)
+write.table(immunoreactive_output, "C:/Users/david/Documents/GitHub/KUMC_OvarianCancer_Feb2017/Outputs/immunoreactive_output.txt", sep = '\t', row.names = FALSE)
+
 #cleaning workspace
 rm(gene_fallopian)
 rm(gene_proliferative)
 rm(gene_mesenchymal)
 rm(gene_immunoreactive)
 
-topTable(final_fallopian_fit)
