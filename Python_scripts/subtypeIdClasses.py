@@ -103,4 +103,11 @@ class subtypeIdClasses:
                 dotString += inputStr[i]
         return dotString
 
+    def outputProlifKeys(self):
+        p_out = open('prolif_keys.txt', 'w+')
+        for i in range(0, len(self.d_proliferativeIdKeys)):
+            p_out.write(self.d_proliferativeIdKeys[i])
+            p_out.write('\t')
+        p_out.write('\n')
+        p_out.close()
         

@@ -1,5 +1,5 @@
 Sample_ID 	Subtype	Platinum Status	
-TCGA.04.1331.01A.01R	Unknown	Resistant	
+TCGA.04.1331.01A.01R	Unknown	Unknown	
 TCGA.04.1332.01A.01R	Unknown	Unknown	
 TCGA.04.1336.01A.01R	Unknown	Unknown	
 TCGA.04.1337.01A.01R	Unknown	Unknown	
@@ -16,7 +16,7 @@ TCGA.04.1356.01A.01R	Unknown	Unknown
 TCGA.04.1357.01A.01R	Unknown	Unknown	
 TCGA.04.1361.01A.01R	Unknown	Unknown	
 TCGA.04.1362.01A.01R	Fallopian	Resistant	
-TCGA.04.1364.01A.01R	Proliferative	 	
+TCGA.04.1364.01A.01R	Proliferative	Resistant	
 TCGA.04.1365.01A.01R	Immunoreactive	Sensitive	
 TCGA.04.1367.01A.01R	Unknown	Unknown	
 TCGA.04.1514.01A.01R	Proliferative	Sensitive	
@@ -37,7 +37,7 @@ TCGA.04.1655.01A.01R	Unknown	Unknown
 TCGA.09.0364.01A.02R	Proliferative	Sensitive	
 TCGA.09.0366.01A.01R	Immunoreactive	Resistant	
 TCGA.09.0367.01A.01R	Fallopian	Resistant	
-TCGA.09.0369.01A.01R	Proliferative	 	
+TCGA.09.0369.01A.01R	Proliferative	Resistant	
 TCGA.09.1659.01B.01R	Fallopian	Resistant	
 TCGA.09.1661.01B.01R	Unknown	Unknown	
 TCGA.09.1662.01A.01R	Fallopian	Sensitive	
@@ -128,7 +128,7 @@ TCGA.13.0912.01A.01R	Unknown	Unknown
 TCGA.13.0913.01A.01R	Proliferative	Sensitive	
 TCGA.13.0916.01A.01R	Proliferative	Sensitive	
 TCGA.13.0919.01A.01R	Unknown	Unknown	
-TCGA.13.0920.01A.01R	Proliferative	 	
+TCGA.13.0920.01A.01R	Proliferative	Resistant	
 TCGA.13.0921.01A.01R	Unknown	Unknown	
 TCGA.13.0923.01A.01R	Unknown	Unknown	
 TCGA.13.0924.01A.01R	Immunoreactive	Sensitive	
@@ -249,7 +249,7 @@ TCGA.24.1474.01A.01R	Immunoreactive	Sensitive
 TCGA.24.1544.01A.01R	Proliferative	Sensitive	
 TCGA.24.1545.01A.01R	Mesenchymal	Sensitive	
 TCGA.24.1546.01A.01R	Unknown	Unknown	
-TCGA.24.1548.01A.01R	Proliferative	 	
+TCGA.24.1548.01A.01R	Proliferative	Resistant	
 TCGA.24.1549.01A.01R	Immunoreactive	Sensitive	
 TCGA.24.1550.01A.01R	Mesenchymal	Sensitive	
 TCGA.24.1551.01A.01R	Immunoreactive	Sensitive	
@@ -258,13 +258,13 @@ TCGA.24.1553.01A.01R	Immunoreactive	Sensitive
 TCGA.24.1555.01A.01R	Fallopian	Sensitive	
 TCGA.24.1556.01A.01R	Immunoreactive	Sensitive	
 TCGA.24.1557.01A.01R	Fallopian	Resistant	
-TCGA.24.1558.01A.01R	Proliferative	 	
-TCGA.24.1560.01A.01R	Proliferative	 	
+TCGA.24.1558.01A.01R	Proliferative	Resistant	
+TCGA.24.1560.01A.01R	Proliferative	Resistant	
 TCGA.24.1562.01A.01R	Fallopian	Resistant	
 TCGA.24.1563.01A.01R	Mesenchymal	Sensitive	
 TCGA.24.1564.01A.01R	Mesenchymal	Resistant	
 TCGA.24.1565.01A.01R	Unknown	Unknown	
-TCGA.24.1567.01A.01R	Proliferative	 	
+TCGA.24.1567.01A.01R	Proliferative	Resistant	
 TCGA.24.1603.01A.01R	Fallopian	Sensitive	
 TCGA.24.1604.01A.01R	Fallopian	Sensitive	
 TCGA.24.1614.01A.01R	Unknown	Unknown	
@@ -311,8 +311,8 @@ TCGA.24.2298.01A.01R	Mesenchymal	Sensitive
 TCGA.25.1312.01A.01R	Unknown	Unknown	
 TCGA.25.1313.01A.01R	Immunoreactive	Sensitive	
 TCGA.25.1314.01A.01R	Fallopian	Sensitive	
-TCGA.25.1315.01A.01R	Proliferative	 	
-TCGA.25.1316.01A.01R	Proliferative	 	
+TCGA.25.1315.01A.01R	Proliferative	Resistant	
+TCGA.25.1316.01A.01R	Proliferative	Resistant	
 TCGA.25.1317.01A.01R	Unknown	Unknown	
 TCGA.25.1318.01A.01R	Fallopian	Resistant	
 TCGA.25.1319.01A.01R	Unknown	Unknown	
@@ -334,7 +334,7 @@ TCGA.25.1630.01A.01R	Immunoreactive	Sensitive
 TCGA.25.1631.01A.01R	Unknown	Unknown	
 TCGA.25.1632.01A.01R	Proliferative	Sensitive	
 TCGA.25.1633.01A.01R	Mesenchymal	Sensitive	
-TCGA.25.1634.01A.01R	Proliferative	 	
+TCGA.25.1634.01A.01R	Proliferative	Resistant	
 TCGA.25.1635.01A.01R	Mesenchymal	Sensitive	
 TCGA.25.1870.01A.01R	Immunoreactive	Sensitive	
 TCGA.25.1871.01A.01R	Immunoreactive	Resistant	
@@ -343,7 +343,7 @@ TCGA.25.1878.01A.01R	Unknown	Unknown
 TCGA.25.2042.01A.01R	Mesenchymal	Resistant	
 TCGA.25.2391.01A.01R	Fallopian	Sensitive	
 TCGA.25.2392.01A.01R	Unknown	Unknown	
-TCGA.25.2393.01A.01R	Proliferative	 	
+TCGA.25.2393.01A.01R	Proliferative	Resistant	
 TCGA.25.2396.01A.01R	Unknown	Unknown	
 TCGA.25.2397.01A.01R	Unknown	Unknown	
 TCGA.25.2398.01A.01R	Mesenchymal	Sensitive	
@@ -364,8 +364,8 @@ TCGA.29.1697.01A.01R	Proliferative	Sensitive
 TCGA.29.1698.01A.01R	Mesenchymal	Resistant	
 TCGA.29.1699.01A.01R	Unknown	Unknown	
 TCGA.29.1701.01A.01R	Immunoreactive	Resistant	
-TCGA.29.1702.01A.01R	Proliferative	 	
-TCGA.29.1703.01A.01R	Proliferative	 	
+TCGA.29.1702.01A.01R	Proliferative	Resistant	
+TCGA.29.1703.01A.01R	Proliferative	Resistant	
 TCGA.29.1705.01A.01R	Mesenchymal	Resistant	
 TCGA.29.1707.01A.01R	Unknown	Unknown	
 TCGA.29.1710.01A.02R	Immunoreactive	Sensitive	
@@ -453,7 +453,7 @@ TCGA.61.1741.01A.02R	Proliferative	Sensitive
 TCGA.61.1743.01A.01R	Proliferative	Sensitive	
 TCGA.61.1895.01A.01R	Unknown	Unknown	
 TCGA.61.1899.01A.01R	Unknown	Unknown	
-TCGA.61.1900.01A.01R	Proliferative	 	
+TCGA.61.1900.01A.01R	Proliferative	Resistant	
 TCGA.61.1901.01A.01R	Unknown	Unknown	
 TCGA.61.1904.01A.01R	Unknown	Unknown	
 TCGA.61.1906.01A.01R	Unknown	Unknown	

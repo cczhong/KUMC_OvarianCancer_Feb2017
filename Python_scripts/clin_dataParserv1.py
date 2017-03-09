@@ -60,9 +60,6 @@ def countResistComplete(matrix):
             count += 1
     return count
 
-def searchMatrices(searchWord, m1, m2, m3, m4, m5, m6, m7, m8):
-    for i in range(0, len(m1)):
-        pass
 dataList = list(csv.reader(open('ov_tcga_pub_clinical_data.tsv'), delimiter='\t'))
 
 
@@ -94,6 +91,7 @@ b_mesenchymal_st = []
 b_immunoreactive_st = []
 
 subtypeData = subtypeIdClasses()
+subtypeData.outputProlifKeys()
 
 
 #groups data table by subtype using sample IDs.
@@ -166,102 +164,108 @@ immuno_exp_data = []
 
 #Parsing microarray data
 expressionMatrix = list(csv.reader(open('TCGA_489_UE.txt'), delimiter = '\t'))
+#print('row#: ', len(expressionMatrix), '\n col#: ', len(expressionMatrix[0]))
 
-
-for i in range(1, len(expressionMatrix[1])):
-    if platStatusDict.get(expressionMatrix[0][i-1]) != 'None':
-        if fallopian_Dict.get(expressionMatrix[0][i-1]) == 'Sensitive' or fallopian_Dict.get(expressionMatrix[0][i-1]) == 'Resistant':
+for i in range(0, len(expressionMatrix[1])):
+    if platStatusDict.get(expressionMatrix[0][i]) != 'None':
+        if fallopian_Dict.get(expressionMatrix[0][i]) == 'Sensitive' or fallopian_Dict.get(expressionMatrix[0][i]) == 'Resistant':
             expVector = []
-            expVector.append(expressionMatrix[0][i-1])
-            expVector.append(fallopian_Dict.get(expressionMatrix[0][i-1]))
-            padStr = ''
-            padVector = []
-            for rowInd in range(1, 11865):
-                expVector.append(expressionMatrix[rowInd][i])
-                padStr = 'Column ' + str(i)
-                padVector.append(padStr)
-            if i == 1:
-                fallopian_exp_data.append(padVector)
+            expVector.append(expressionMatrix[0][i])
+            expVector.append(fallopian_Dict.get(expressionMatrix[0][i]))
             fallopian_exp_data.append(expVector)
-        elif proliferative_Dict.get(expressionMatrix[0][i-1]) == 'Sensitive' or proliferative_Dict.get(expressionMatrix[0][i-1]) == 'Resistant':
+        elif proliferative_Dict.get(expressionMatrix[0][i]) == 'Sensitive' or proliferative_Dict.get(expressionMatrix[0][i]) == 'Resistant':
             expVector = []
-            expVector.append(expressionMatrix[0][i-1])
-            expVector.append(proliferative_Dict.get(expressionMatrix[0][i-1]))
-            padStr = ''
-            padVector = []
-            for rowInd in range(1, 11865):
-                expVector.append(expressionMatrix[rowInd][i])
-                padStr = 'Column ' + str(i)
-                padVector.append(padStr)
-            if i == 1:
-                prolif_exp_data.append(padVector)
+            expVector.append(expressionMatrix[0][i])
+            expVector.append(proliferative_Dict.get(expressionMatrix[0][i]))
             prolif_exp_data.append(expVector)
-        elif mesenchymal_Dict.get(expressionMatrix[0][i-1]) == 'Sensitive' or mesenchymal_Dict.get(expressionMatrix[0][i-1]) == 'Resistant':
+        elif mesenchymal_Dict.get(expressionMatrix[0][i]) == 'Sensitive' or mesenchymal_Dict.get(expressionMatrix[0][i]) == 'Resistant':
             expVector = []
-            expVector.append(expressionMatrix[0][i-1])
-            expVector.append(mesenchymal_Dict.get(expressionMatrix[0][i-1]))
-            padStr = ''
-            padVector = []
-            for rowInd in range(1, 11865):
-                padStr= 'Column ' + str(i)
-                padVector.append(padStr)
-                expVector.append(expressionMatrix[rowInd][i])
-            if i == 1:
-                mesen_exp_data.append(padVector)
+            expVector.append(expressionMatrix[0][i])
+            expVector.append(mesenchymal_Dict.get(expressionMatrix[0][i]))
             mesen_exp_data.append(expVector)
-        elif immunoreactive_Dict.get(expressionMatrix[0][i-1]) == 'Sensitive' or immunoreactive_Dict.get(expressionMatrix[0][i-1]) == 'Resistant':
+        elif immunoreactive_Dict.get(expressionMatrix[0][i]) == 'Sensitive' or immunoreactive_Dict.get(expressionMatrix[0][i]) == 'Resistant':
             expVector = []
-            expVector.append(expressionMatrix[0][i-1])
-            expVector.append(immunoreactive_Dict.get(expressionMatrix[0][i-1]))
-            padStr = ''
-            padVector = []
-            for rowInd in range(1, 11865):
-                expVector.append(expressionMatrix[rowInd][i])
-                padStr = 'Column ' + str(i)
-                padVector.append(padStr)
-            if i == 1:
-                immuno_exp_data.append(padVector) 
+            expVector.append(expressionMatrix[0][i])
+            expVector.append(immunoreactive_Dict.get(expressionMatrix[0][i])) 
             immuno_exp_data.append(expVector)
 
+platStat = ['Platinum Status']
+final_out_matrix = []
+
+for i in range(0, len(expressionMatrix)):
+    final_out_matrix.append(['']*len(expressionMatrix[1]))
+
+#print('Length of final output matrix: ', len(final_out_matrix), '\nNumber of rows in matrix: ', len(final_out_matrix[0]))
+
+for i in range(1, len(expressionMatrix)):
+    platStat.append([]*len(expressionMatrix[0]))
+    
 
 
-#data output
-f_out = open('fallopian.txt', 'w+')
-p_out = open('proliferative.txt', 'w+')
-m_out = open('mesenchymal.txt', 'w+')
-i_out = open('immunoreactive.txt','w+')
+phenotypeMatrix = []
 
-#write1 = csv.writer(f_out,  quoting=csv.QUOTE_ALL)
-#write2 = csv.writer(p_out,  quoting=csv.QUOTE_ALL)
-#write3 = csv.writer(m_out,  quoting=csv.QUOTE_ALL)
-#write4 = csv.writer(i_out, quoting=csv.QUOTE_ALL)
-
-for i in range(0, len(fallopian_exp_data)):
-    for j in range(0, len(fallopian_exp_data[0])):
-        f_out.write(fallopian_exp_data[i][j])
-        f_out.write('\t')
-    f_out.write('\n')
-for i in range(0, len(prolif_exp_data)):
-    for j in range(0, len(prolif_exp_data[0])):
-        p_out.write(prolif_exp_data[i][j])
-        p_out.write('\t')
-    p_out.write('\n')
-for i in range(0, len(mesen_exp_data)):
-    for j in range(0, len(mesen_exp_data[0])):
-        m_out.write(mesen_exp_data[i][j])
-        m_out.write('\t')
-    m_out.write('\n')
-for i in range(0, len(immuno_exp_data)):
-    for j in range(0, len(immuno_exp_data[0])):
-        i_out.write(immuno_exp_data[i][j])
-        i_out.write('\t')
-    i_out.write('\n')
+for i in range(0, len(expressionMatrix[0])):
+    phenotypeMatrix.append([' ']*3)
+#print(len(phenotypeMatrix), phenotypeMatrix[0])
+subtypeCol = ['Subtype']
 
 
-f_out.close()
-p_out.close()
-m_out.close()
-i_out.close()
+for i in range(0, len(expressionMatrix[0])):
+    if platStatusDict.get(expressionMatrix[0][i]) != 'None':
+        if fallopian_Dict.get(expressionMatrix[0][i]) == 'Sensitive':
+            phenotypeMatrix[i][0] = expressionMatrix[0][i]
+            phenotypeMatrix[i][1] = 'Fallopian'
+            phenotypeMatrix[i][2] = 'Sensitive'
+        elif fallopian_Dict.get(expressionMatrix[0][i]) == 'Resistant':
+            phenotypeMatrix[i][0] = expressionMatrix[0][i]
+            phenotypeMatrix[i][1] = 'Fallopian' 
+            phenotypeMatrix[i][2] = 'Resistant'
+        elif proliferative_Dict.get(expressionMatrix[0][i]) == 'Sensitive':
+            phenotypeMatrix[i][0] = expressionMatrix[0][i]
+            phenotypeMatrix[i][1] = 'Proliferative'
+            phenotypeMatrix[i][2] = 'Sensitive'
+            platStat[i] = 'Sensitive'
+        elif proliferative_Dict.get(expressionMatrix[0][i]) == 'Resistant':
+            phenotypeMatrix[i][0] = expressionMatrix[0][i] 
+            phenotypeMatrix[i][1] ='Proliferative'
+            phenotypeMatrix[i][2] = 'Resistant'
+            platStat[i] = 'Resistant'
+        elif mesenchymal_Dict.get(expressionMatrix[0][i]) == 'Sensitive':
+            phenotypeMatrix[i][0] = expressionMatrix[0][i] 
+            phenotypeMatrix[i][1] = 'Mesenchymal'
+            phenotypeMatrix[i][2] = 'Sensitive'
+        elif mesenchymal_Dict.get(expressionMatrix[0][i]) == 'Resistant':
+            phenotypeMatrix[i][0] = expressionMatrix[0][i] 
+            phenotypeMatrix[i][1] = 'Mesenchymal'
+            phenotypeMatrix[i][2] = 'Resistant'
+        elif immunoreactive_Dict.get(expressionMatrix[0][i]) == 'Sensitive':
+            phenotypeMatrix[i][0] = expressionMatrix[0][i] 
+            phenotypeMatrix[i][1] = 'Immunoreactive'
+            phenotypeMatrix[i][2] = 'Sensitive'
+        elif immunoreactive_Dict.get(expressionMatrix[0][i]) == 'Resistant':
+            phenotypeMatrix[i][0] = expressionMatrix[0][i] 
+            phenotypeMatrix[i][1] = 'Immunoreactive'
+            phenotypeMatrix[i][2] = 'Resistant'
+        else:
+            if i == 0:
+                phenotypeMatrix[i][0] = 'Sample_ID '
+                phenotypeMatrix[i][1] = 'Subtype'
+                phenotypeMatrix[i][2] = 'Platinum Status'
+            else:
+                phenotypeMatrix[i][0] = expressionMatrix[0][i]
+                phenotypeMatrix[i][1] = 'Unknown'
+                phenotypeMatrix[i][2] = 'Unknown'
+
+phenotypeOut = open('phenotype_matrix.txt', 'w+')
+for i in range(0, len(phenotypeMatrix)):
+    for j in range(0, len(phenotypeMatrix[0])):
+        phenotypeOut.write(phenotypeMatrix[i][j])
+        phenotypeOut.write('\t')
+    phenotypeOut.write('\n')
+
+phenotypeOut.close()
+
+
 
 
 
