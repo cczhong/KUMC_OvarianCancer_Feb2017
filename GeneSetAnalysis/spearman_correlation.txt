@@ -1,0 +1,5 @@
+"Subtype"	"Rho.Value"
+"Fallopian"	0.048473525363981
+"Immunoreactive"	0.0926170578354634
+"Mesenchymal"	0.0542651556443206
+"Proliferative"	-0.00352429155331975
